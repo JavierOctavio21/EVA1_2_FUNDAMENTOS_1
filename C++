@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main ()
+{
+    int iEdad;
+    int iEdad25;
+    int _iEdad;
+    int iedad;
+    // -----------
+    //int 25edad;
+    //int tu edad;
+    //int iEdad;
+    //int algo-mas;// el - es un operador que representa una resta aritmétrica
+  
+    return 0;
+}
